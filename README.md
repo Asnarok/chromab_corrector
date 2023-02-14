@@ -30,3 +30,5 @@ Max dot product between U = (origin to enlargement vector origin) and V = enlarg
 
 <h3>NB</h3>
 If not specified, the algorithm will use default values.
+
+[Buy me a coffee](https://www.buymeacoffee.com/asnarok)
