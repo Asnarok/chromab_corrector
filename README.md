@@ -1,5 +1,5 @@
 # chromab_corrector
-An semi-automatic image enhancing software specialized in reducing the chromatic aberrations for astrophotography
+A semi-automatic image enhancing software specialized in reducing the chromatic aberrations for astrophotography
 <h2>GUI Version</h2>
 Requires a JRE. Unzip and run chromab.jar
 <h2>CLI arguments</h2>
